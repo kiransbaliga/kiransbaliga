@@ -1,6 +1,6 @@
 ### Hola 👋 I'm Kiran S Baliga
 
-![banner](https://github.com/kiransbaliga/kiransbaliga/blob/main/Neon%20Green%20and%20White%20Professional%20LinkedIn%20Banner.gif)
+
 ---
 I am a Full-stack Mobile and Web Developer who is exploring Deep Learning 🤖 and open to collaborate 😃... 
 - 💬 Ask me about ML, Flutter, Django & Python
