@@ -6,7 +6,7 @@ I am a Full-stack Mobile and Web Developer who is exploring Deep Learning 🤖 a
 - 💬 Ask me about ML, Flutter, Django & Python
 - 🔭 I’m currently working on ...
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kiransbaliga&repo=Moosik)](https://github.com/kiransbaliga/Moosik)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kiransbaliga&repo=Moosik)](https://github.com/kiransbaliga/Moosik)
 ---
 ### Tech & Tools Preference
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow"><img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"><img src="http://img.shields.io/badge/-django-black?style=flat&logo=django"><img src="https://img.shields.io/badge/-Flask-3a495d?style=flat&logo=flask&logoColor=67b7f7\">
