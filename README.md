@@ -4,9 +4,10 @@
 ---
 I am a Full-stack Mobile and Web Developer who is exploring Deep Learning 🤖 and open to collaborate 😃... 
 - 💬 Ask me about ML, Flutter, Django & Python
-- 🔭 I’m currently working on ...
 ---
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kiransbaliga&repo=Moosik)
+🔭 I’m currently working on ...
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kiransbaliga&repo=Moosik&onclicked="https://kiransbaliga.github.io")
 ---
 ### Tech & Tools Preference
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow"><img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"><img src="http://img.shields.io/badge/-django-black?style=flat&logo=django"><img src="https://img.shields.io/badge/-Flask-3a495d?style=flat&logo=flask&logoColor=67b7f7\">
@@ -15,7 +16,7 @@ I am a Full-stack Mobile and Web Developer who is exploring Deep Learning 🤖 a
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=kiransbaliga&show_icons=true&hide_border=true)
 ---
 ### You can find in me in the web 🌍
-- <img align="left" alt="kiransbaliga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[website]
+- <img align="left" alt="kiransbaliga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[website](https://kiransbaliga.me)
 - <img align="left" alt="kiransbaliga | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter](https://www.linkedin.com/in/kiran-s-baliga-6a751618b/)
 - <img align="left" alt="kiransbaliga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin](https://www.linkedin.com/in/kiran-s-baliga-6a751618b/)
 - <img align="left" alt="kiransbaliga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>[instagram](https://www.instagram.com/itz_kiranz/)
