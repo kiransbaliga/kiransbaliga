@@ -1,5 +1,5 @@
 ### Hola 👋 I'm Kiran S Baliga
-![Banner](https://github.com/kiransbaliga/kiransbaliga/blob/main/1.gif)
+![Banner](https://github.com/kiransbaliga/kiransbaliga/blob/main/banner.png)
 
 ---
 I am a Full-stack Mobile and Web Developer who is exploring Deep Learning 🤖 and open to collaborate 😃... 
