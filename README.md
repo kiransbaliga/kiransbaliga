@@ -1,4 +1,4 @@
-### Hola 👋 I'm Kiran S Baliga
+### Hola 👋 I'm Kiran 
 ![Banner](https://github.com/kiransbaliga/kiransbaliga/blob/main/banner.png)
 
 ---
