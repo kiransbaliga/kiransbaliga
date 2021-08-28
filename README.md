@@ -24,10 +24,10 @@ I am a Full-stack Mobile and Web Developer who is exploring Deep Learning 🤖 a
 
 ### You can checkout my blogs :loudspeaker: 
 
-[<img src="https://github.com/kiransbaliga/kiransbaliga/blob/main/1.png">](https://kiransbaliga.wixsite.com/imagix-online/post/how-ai-is-changing-personal-data-tracking)
-[<img src="https://github.com/kiransbaliga/kiransbaliga/blob/main/2.png">](https://kiransbaliga.wixsite.com/imagix-online/post/information-security-keep-your-devices-safe)
+[<img src="https://github.com/kiransbaliga/kiransbaliga/blob/main/1.png">](https://kiransbaliga.me/posts/getting-started-with-machine-learning-from-scratch)
+[<img src="https://github.com/kiransbaliga/kiransbaliga/blob/main/2.png">](https://kiransbaliga.me/posts/getting-started-with-github)
 
-[Visit My Blog](https://kiransbaliga.wixsite.com/imagix-online) 
+[Visit My Blog](https://kiransbaliga.me/blog) 
 
 ---
 ![Profile views](https://gpvc.arturio.dev/kiransbaliga)  <img src="https://img.shields.io/github/followers/kiransbaliga?label=Follow" style=" float:left, margin-right:10px" />
