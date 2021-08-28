@@ -24,8 +24,8 @@ I am a Full-stack Mobile and Web Developer who is exploring Deep Learning 🤖 a
 
 ### You can checkout my blogs :loudspeaker: 
 
-[<img src="https://github.com/kiransbaliga/kiransbaliga/blob/main/1.png">](https://kiransbaliga.me/posts/getting-started-with-machine-learning-from-scratch)
-[<img src="https://github.com/kiransbaliga/kiransbaliga/blob/main/2.png">](https://kiransbaliga.me/posts/getting-started-with-github)
+[<img src="https://github.com/kiransbaliga/kiransbaliga/blob/main/3.png">](https://kiransbaliga.me/posts/getting-started-with-machine-learning-from-scratch)
+[<img src="https://github.com/kiransbaliga/kiransbaliga/blob/main/4.png">](https://kiransbaliga.me/posts/getting-started-with-github)
 
 [Visit My Blog](https://kiransbaliga.me/blog) 
 
