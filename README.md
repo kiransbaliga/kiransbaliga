@@ -70,8 +70,8 @@ Timezone: Asia/Kolkatta (IST)
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kiransbaliga&theme=radical&show_icons=true" width="450" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiransbaliga&layout=compact&theme=radical" width="375"  />
+<img src="https://github-readme-stats.vercel.app/api?username=kiransbaliga&theme=radical&show_icons=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiransbaliga&layout=compact&theme=radical" width="350"  />
 </p>
 
 ---
