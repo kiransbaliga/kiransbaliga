@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hola 👋 I'm Kiran <img src="https://i.imgur.com/MEvObsO.gif" alt="" width="30"></h1>
+  <h1 align="center"><b>Hola <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif height="30"> I'm Kiran <img src="https://i.imgur.com/MEvObsO.gif" alt="" width="30"></h1>
 </p>
 <p align="center">
 <a href="https://kiransbaliga.me/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
@@ -79,6 +79,7 @@ Timezone: Asia/Kolkatta (IST)
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 ![Profile views](https://gpvc.arturio.dev/kiransbaliga)  <img src="https://img.shields.io/github/followers/kiransbaliga?label=Follow" style=" float:left, margin-right:10px" />
