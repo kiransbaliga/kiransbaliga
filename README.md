@@ -79,6 +79,7 @@ Timezone: Asia/Kolkatta (IST)
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [3 things to note when you design an App](https://dev.to/kiransbaliga/3-things-to-note-when-you-design-an-app-5g9b)
 - [Learn DSA with LeetCode](https://dev.to/kiransbaliga/learn-dsa-with-leetcode-3239)
 - [First Open Source Contribution Doesn't Have To Be Hard.](https://dev.to/tinkerhub_mace/first-open-source-contribution-doesnt-have-to-be-hard-5195)
 - [HacktoberFest](https://dev.to/kiransbaliga/hacktoberfest-1ol3)
