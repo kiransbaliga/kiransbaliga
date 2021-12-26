@@ -14,7 +14,7 @@ AI | Flutter developer.
 </p>
 <br />
 
-<h2 align="center">My Favorite projects 💻</h2>
+<h2 align="center">My Favorite Projects 💻</h2>
 <br />
 
 <p align="center">
