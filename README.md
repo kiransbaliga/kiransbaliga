@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hola <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif height="30"> I'm Kiran <img src="https://i.imgur.com/MEvObsO.gif" alt="" width="30"></h1>
 </p>
 <p align="center">
-<a href="https://kiransbaliga.me/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
+<a href="https://kiransbaliga.tech/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
 <a href="https://dev.to/kiransbaliga"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev" /></a>&nbsp;
 <a href="https://twitter.com/kiransbaliga"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://dribbble.com/kiransbaliga"><img src="https://img.shields.io/badge/Dribbble-pink?style=for-the-badge&logo=dribbble&logoColor=white alt="dribble" /></a>&nbsp;
