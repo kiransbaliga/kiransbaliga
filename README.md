@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hola <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif height="30"> I'm Kiran <img src="https://i.imgur.com/MEvObsO.gif" alt="" width="30"></h1>
 </p>
 <p align="center">
-<a href="https://kiransbaliga.tech/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
+<a href="https://kiransbaliga.github.io/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
 <a href="https://dev.to/kiransbaliga"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev" /></a>&nbsp;
 <a href="https://twitter.com/kiransbaliga"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://dribbble.com/kiransbaliga"><img src="https://img.shields.io/badge/Dribbble-pink?style=for-the-badge&logo=dribbble&logoColor=white alt="dribble" /></a>&nbsp;
@@ -43,7 +43,7 @@ AI | Flutter developer.
 Timezone: Asia/Kolkatta (IST)
 </p>
 <br />
-<p>In my latest project, I created an <a href="https://github.com/kiransbaliga/mask-or-not">Mask-or-not</a> to detect whether the subject is wearing a mask or not. I created this project while I was learning Deep Learning and AI. I am also working on <a href=""https://github.com/kiransbaliga/Moosik> Moosik </a> an opensource music app to listen for free.</p>
+<p>I am a Full Stack Developer with a strong focus on building scalable and robust systems. With over 1.5 years of experience in industrial and freelance projects, I have expertise in React, NodeJs, and Flutter, as well as proficiency in Python for developing data-driven applications. My skills in design with Figma and Photoshop complement my technical background</p>
 
 :muscle: I am currently helping others to get into tech through my blog <br />
 
