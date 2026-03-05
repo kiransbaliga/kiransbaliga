@@ -10,47 +10,8 @@
 <br />
 
 <p align='center'>
-AI | Flutter developer. 
+Fullstack Developer 
 </p>
-<br />
-
-<h2 align="center">My Favorite Projects 💻</h2>
-<br />
-
-<p align="center">
-  <!-- <img width="400" src="https://kiransbaliga.me/img/proj1.png" /> -->
-  <!-- <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" /> -->
- <a href="https://github.com/kiransbaliga/Moosik">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=kiransbaliga&repo=moosik&theme=tokyonight" />
-</a>
-  <a href="https://github.com/kiransbaliga/mask-or-not">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=kiransbaliga&repo=mask-or-not&theme=tokyonight" />
-</a>
-  <!-- <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" /> -->
-  <!-- <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" /> -->
-  <a href="https://github.com/kiransbaliga/DSA-with-leetcode">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=kiransbaliga&repo=DSA-with-leetcode&theme=tokyonight" />
-</a>
-<a href="https://github.com/kiransbaliga/Flutter-webviewTemplate">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=kiransbaliga&repo=Flutter-webviewTemplate&theme=tokyonight" />
-</a>
-</p>
-
-<br />
-
-<h2 align="center">About Me 😇</h2>
-<p align="center">
-Timezone: Asia/Kolkatta (IST)
-</p>
-<br />
-<p>I am a Full Stack Developer with a strong focus on building scalable and robust systems. With over 1.5 years of experience in industrial and freelance projects, I have expertise in React, NodeJs, and Flutter, as well as proficiency in Python for developing data-driven applications. My skills in design with Figma and Photoshop complement my technical background</p>
-
-:muscle: I am currently helping others to get into tech through my blog <br />
-
-💬 Ask me about anything related to ML, Flutter, Django & Python. I am happy to help.<br />
- <br />
-![Banner](https://github.com/kiransbaliga/kiransbaliga/blob/main/banner.png)
-<br />
 <br />
 <p>
 <h3 align="center"> Languages and Tools</h3>
@@ -65,15 +26,6 @@ Timezone: Asia/Kolkatta (IST)
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
 <br />
-
----
-
-<br />
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kiransbaliga&theme=radical&show_icons=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiransbaliga&layout=compact&theme=radical" width="350"  />
-</p>
-
 ---
 
 📕 **Latest Blog Posts**
